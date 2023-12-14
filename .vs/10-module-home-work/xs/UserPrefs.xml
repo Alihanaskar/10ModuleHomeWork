@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1F59654E-2578-497C-9C94-0711C82388DD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.10-module-home-work FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10-module-home-work/Person.cs">
+    <Files>
+      <File FileName="10-module-home-work/ICalculatable.cs" />
+      <File FileName="10-module-home-work/Person.cs" Line="60" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10-module-home-work" expanded="True">
+            <Node name="10-module-home-work" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
